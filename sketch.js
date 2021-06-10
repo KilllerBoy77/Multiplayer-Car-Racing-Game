@@ -56,7 +56,7 @@ function setup() {
 
 function draw() {
   //draw the background
-  background(200, 200, 255);
+  background(200, 200, 200);
 
   //start the game
   if (playerCount === 4 && finishedPlayers === 0) {
